@@ -1,0 +1,11 @@
+df_messages.txt
+df_conversations.txt
+*.log
+*.ldb
+conversat
+LOCK
+LOG*
+MANIFEST*
+CURRENT
+.DS_Store
+amhmeenmapldpjdedekalnfifgnpfnkc
