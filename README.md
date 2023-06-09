@@ -1,6 +1,6 @@
 # ChatGPT local analysis in Jupyter Notebook 🤖
 
-In this notebook I deliver the foundation on how to analyse the personal ChatGPT conversation history. 
+In this notebook I deliver a foundation on how to analyse the personal ChatGPT conversation history. 
 
 After a few months of using ChatGPT, I have collected a large amount of data and want to reflect on old conversations and spark ideas on how to use it in the future.
 
@@ -21,7 +21,7 @@ Using the Superpower ChatGPT extension for Chrome you can automatically sync you
 
 - [x] Streamlint Dashboard
     - [x] Basic setup
-    - [] Conversation overview
+    - [o] Conversation overview
 
 ## Future features
 
