@@ -21,11 +21,18 @@ Using the Superpower ChatGPT extension for Chrome you can automatically sync you
 
 - [x] Streamlint Dashboard
     - [x] Basic setup
-    - [o] Conversation overview
+    - [x] Table with conversations
+    - [x] Wordcloud of all messages
+    - [x] Exclusion list in custom_stop_words.txt
+    
+    - [ ] Conversation overview
+    - [ ] Graph network of conversations / words / topics
 
 ## Future features
 
-- Graph network of conversations / words / topics (Can someone help me with this?)
+- Graph network of conversations / words / topics (Can someone help me with this?) 
+    - Not sure how to do this, but I think it would be cool to see how conversations are connected and how topics are connected to each other
+    - https://towardsdatascience.com/how-to-deploy-interactive-pyvis-network-graphs-on-streamlit-6c401d4c99db
 
 ## Pull requests are welcome!
 Feel free to contribute to this project and contribute ideas on how to analyse the data.
