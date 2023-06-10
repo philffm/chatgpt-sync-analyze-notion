@@ -6,6 +6,8 @@ After a few months of using ChatGPT, I have collected a large amount of data and
 
 Using the Superpower ChatGPT extension for Chrome you can automatically sync your conversations for offline usage. Since all your conversations are now stored locally, you can analyse the local database to get insights into your conversations.
 
+## Demo
+Feel free to check out the notebook [here](./chatgpt_analysis.ipynb): 
 ## Requirements
 
 - Superpower ChatGPT extension: https://github.com/saeedezzati/superpower-chatgpt
