@@ -21,6 +21,13 @@ Feel free to check out the notebook [here](./chatgpt_analysis.ipynb):
     - [x] df_conversations
     - [x] df_messages
 
+- [x] Sync ChatGPT conversations to Notion
+    - [x] Add a Notion token to your .env file
+    - [x] Just add a '📝' emoji to the conversation and it will be synced to Notion
+    - [x] Avoid 2000 character limit by splitting the message into multiple messages
+    - [ ] Add a link to the original conversation in the Notion page
+    - [ ] Let it detect changes in already synced conversations
+
 - [x] Streamlint Dashboard
     - [x] Basic setup
     - [x] Table with conversations
