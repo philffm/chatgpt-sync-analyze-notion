@@ -10,7 +10,7 @@ Using the Superpower ChatGPT extension for Chrome you can automatically sync you
 Feel free to check out the notebook [here](./chatgpt_analysis.ipynb): 
 ## Requirements
 
-- Superpower ChatGPT extension: https://github.com/saeedezzati/superpower-chatgpt (big shoutout to @saeedezzati for this awesome extension)
+- Superpower ChatGPT extension: https://github.com/saeedezzati/superpower-chatgpt 
 - Python 3.8
 - Streamlit
 
@@ -44,4 +44,9 @@ Feel free to check out the notebook [here](./chatgpt_analysis.ipynb):
     - https://towardsdatascience.com/how-to-deploy-interactive-pyvis-network-graphs-on-streamlit-6c401d4c99db
 
 ## Pull requests are welcome!
-Feel free to contribute to this project and contribute ideas on how to analyse the data.
+Feel free to contribute to this project - especially ideas on how to further analyse the data.
+
+
+## Kudos to
+
+- @saeedezzati for the awesome Superpower ChatGPT extension
