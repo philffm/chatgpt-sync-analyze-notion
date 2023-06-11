@@ -10,7 +10,7 @@ Using the Superpower ChatGPT extension for Chrome you can automatically sync you
 Feel free to check out the notebook [here](./chatgpt_analysis.ipynb): 
 ## Requirements
 
-- Superpower ChatGPT extension: https://github.com/saeedezzati/superpower-chatgpt 
+- Superpower ChatGPT extension from @saeedezzati: https://github.com/saeedezzati/superpower-chatgpt 
 - Python 3.8
 - Streamlit
 
