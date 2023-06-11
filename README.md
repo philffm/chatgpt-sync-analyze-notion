@@ -1,4 +1,4 @@
-# ChatGPT local analysis in Jupyter Notebook 🤖
+# ChatGPT local analysis in Jupyter Notebook 🤖 & Sync to Notion 📝
 
 In this notebook I deliver a foundation on how to analyse the personal ChatGPT conversation history. 
 
