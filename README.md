@@ -49,4 +49,5 @@ Feel free to contribute to this project - especially ideas on how to further ana
 
 ## Kudos to
 
-- @saeedezzati for the awesome Superpower ChatGPT extension
+- [@saeedezzati](https://github.com/saeedezzati) for the awesome Superpower ChatGPT extension
+
